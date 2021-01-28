@@ -1,0 +1,123 @@
+
+body, html {
+    height: 100%;
+   
+  }
+  
+  .bgimg-1, .bgimg-2, .bgimg-3,.bgimg-4{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  .bgimg-1 {
+    background-image: url("../img/39.jpg");
+    min-height: 100%;
+  }
+  
+ 
+  .bgimg-2 {
+    background-image: url("../img/2753889.jpg");
+    min-height: 20%;
+  }
+
+  .bgimg-3 {
+    background-image: url("../img/icon\ 2.jpg");
+    min-height: 20%;
+  } 
+
+  .bgimg-4 {
+    background-image: url("../img/icon\ 1.jpg");
+    min-height: 100%;
+  } 
+
+
+  .pied-de-page{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("../img/Flmt.jpg");
+    padding:3%;
+    background-size: cover; 
+}
+
+.btn-primary,.btn-secondary{
+  margin: 5%;
+}
+
+.carousel-item{
+  padding: 13%;
+ 
+}
+
+.form-group,.name,.first-name,.email,.nativeDatePicker,.btnn{
+  margin: 1%; 
+}
+
+
+
+.btn-1,.btn-2,.btn-3,.btn-4{
+  margin: 3%;
+}
+
+#buttonform{
+  width: 80%;
+}
+
+.ml4 {
+  position: relative;
+  font-weight: 250;
+  font-size: 3em;
+  margin: 10%;
+}
+
+.ml4 .letters {
+  margin: auto;
+  left: 0;
+  top: 4em;
+  right: 0;
+  opacity: 0; 
+}
+
+.fa-facebook {
+  color: rgb(59, 91, 152);
+}
+
+.fa-google {
+  color: brown;
+}
+
+.fa-instagram {
+  color:indigo;
+}
+
+.fa-apple {
+  color: grey;
+}
+
+.texte-daccroche{
+  margin-top: 5%;
+  
+  font-family: 'Italianno', cursive;
+  font-size: 250%;
+  color: rgb(6, 41, 138);
+  
+}
+
+.texte-sou-le-formulaire{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-family: 'Petit Formal Script', cursive;
+  color: rgb(0, 0, 0);
+
+}
+
+.border{
+  background-color: rgba(216, 98, 252, 0.616);
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.letters{
+  font-family: 'Niconne', cursive;
+}
